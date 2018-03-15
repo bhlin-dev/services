@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Report.plist
+   ct_trip
+
+   Created by bhlin on 2018/3/15.
+   Copyright (c) 2018年 tts. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        
+                        <string>http://opbae2xuz.bkt.clouddn.com/DailyReport.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://opbae2xuz.bkt.clouddn.com/images/bhlin/2017-06-14-01.png</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://opbae2xuz.bkt.clouddn.com/images/bhlin/2017-05-03-02.png</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.trip8080.Push</string>
+                    <key>bundle-version</key>
+                    <string>2.5.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>subtitle</key>
+                    <string>install app</string>
+                    <key>title</key>
+                    <string>移动办公系统</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
